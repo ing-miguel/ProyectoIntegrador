@@ -1,5 +1,5 @@
 $(document).ready(main);
-var contador = 1; 
+var contador = 1;
 
 function main() {
 $('.menu_bar').click(function () {
@@ -17,7 +17,7 @@ if(contador == 1){
 }
 });
 
-//mostrar y ocultar submenu
+//mostrar y ocultar submenu MONGOLA
 
 
 $('.submenu').click(function() {
