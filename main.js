@@ -17,7 +17,11 @@ if(contador == 1){
 }
 });
 
+<<<<<<< HEAD
 //mostrar y ocultar submenu MONGOLA
+=======
+//mostrar y ocultar submenu TE AMO ANA ANGELICA.
+>>>>>>> a024824d4d6949361406de58fda6a6f4fc69778b
 
 
 $('.submenu').click(function() {
